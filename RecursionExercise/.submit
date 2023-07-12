@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131
+#  Project Project 9: Recursion Exercise
+
+courseName=CMSC131
+semester=202208
+projectNumber=Project 9
+courseKey=3e289572e0c040b0
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2022
+submitURL=https://submit.cs.umd.edu:443/fall2022/eclipse/SubmitProjectViaEclipse
